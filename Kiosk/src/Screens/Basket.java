@@ -179,7 +179,7 @@ public class Basket extends JFrame{
         getlargeBtn.setBackground(Color.WHITE);
         getlargeBtn.setForeground(Color.BLACK);
         
-        setSize(600,1080);
+        setSize(600, 1000);
         setLocationRelativeTo(null);    //디스플레이 가운데 정렬;
         setVisible(true);
 		

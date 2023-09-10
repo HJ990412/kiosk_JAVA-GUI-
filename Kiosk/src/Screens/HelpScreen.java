@@ -9,7 +9,7 @@ public class HelpScreen extends JFrame {
     public HelpScreen() {
         setTitle("도움말");
         setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
-        setSize(600,1080);
+        setSize(600, 1000);
         setLocationRelativeTo(null);
         
         

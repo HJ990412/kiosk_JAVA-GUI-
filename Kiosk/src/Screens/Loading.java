@@ -7,7 +7,7 @@ public class Loading extends JFrame {
     public Loading() {
         setTitle("결제 진행 중");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        setSize(600, 1080);
+        setSize(600, 1000);
         setLocationRelativeTo(null);
 
         JPanel panel = new JPanel();

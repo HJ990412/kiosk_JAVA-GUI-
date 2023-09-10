@@ -194,7 +194,7 @@ public class Main extends JFrame {
         c.add(menu);
         c.add(basket, BorderLayout.SOUTH);
         
-        setSize(600,1080);
+        setSize(600, 1000);
         setLocationRelativeTo(null); 
 
         setVisible(true);

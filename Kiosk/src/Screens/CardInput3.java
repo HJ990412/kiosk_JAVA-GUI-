@@ -17,7 +17,7 @@ public class CardInput3 extends JFrame implements ActionListener {
     public CardInput3(String cardNumber, String expiryYear) {
         setTitle("카드 정보 입력");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        setSize(600,1080);
+        setSize(600, 1000);
         setLocationRelativeTo(null);
 
         JPanel panel = new JPanel();

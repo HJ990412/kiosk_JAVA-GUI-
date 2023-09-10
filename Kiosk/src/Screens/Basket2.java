@@ -179,7 +179,7 @@ public class Basket2 extends JFrame{
         getlargeBtn.setBackground(Color.WHITE);
         getlargeBtn.setForeground(Color.BLACK);
         
-        setSize(600,1080);
+        setSize(600, 1000);
         setLocationRelativeTo(null);    
         setVisible(true);
 		

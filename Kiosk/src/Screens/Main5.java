@@ -192,7 +192,7 @@ public class Main5 extends JFrame {
         c.add(menu);
         c.add(basket, BorderLayout.SOUTH);
         
-        setSize(600,1080);
+        setSize(600, 1000);
         setLocationRelativeTo(null);    //디스플레이 가운데 정렬;
 
         setVisible(true);

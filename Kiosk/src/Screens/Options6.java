@@ -39,7 +39,7 @@ public class Options6 extends JFrame{
         
         setTitle("옵션추가");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        setSize(600,1080);
+        setSize(600, 1000);
         setLocationRelativeTo(null);
         
         Container c = getContentPane();

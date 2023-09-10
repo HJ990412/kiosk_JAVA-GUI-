@@ -8,7 +8,7 @@ public class functions3 extends JFrame{
     public static ImageIcon resize3(String path){
         ImageIcon icon = new ImageIcon(path);
         Image img = icon.getImage();
-        Image reSizeImg = img.getScaledInstance(500, 800,Image.SCALE_SMOOTH);
+        Image reSizeImg = img.getScaledInstance(500, 1000,Image.SCALE_SMOOTH);
         ImageIcon changeIcon = new ImageIcon(reSizeImg);
 
         return changeIcon;

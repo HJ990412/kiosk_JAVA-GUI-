@@ -105,7 +105,7 @@ public class Init_screen extends JFrame {
 			      
         Init_north.add(engOrderButton);
 	   
-		setSize(600, 1080);
+		setSize(600, 1000);
 		setLocationRelativeTo(null); 
 		setVisible(true);
 	}
